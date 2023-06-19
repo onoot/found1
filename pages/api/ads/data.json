@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Барсик",
+    "animal": "Кошка",
+    "description": "Черная кошка, симпатичная и ласковая.",
+    "photo": "/cat.png",
+    "photo1": "/male1.png",
+    "status": "Пропавшие",
+    "location": "Москва"
+  },
+  {
+    "id": 2,
+    "name": "Кеша",
+    "animal": "Другое",
+    "description": "Зеленый попугай, говорит, может складывать пазлы.",
+    "photo": "/images/parrot.png",
+    "gender": "1",
+    "status": "Найденные",
+    "location": "Санкт-Петербург"
+  },
+  {
+    "id": 3,
+    "name": "Рекс",
+    "animal": "Собака",
+    "description": "Огромный пес, добрый и ласковый, любит детей.",
+    "photo": "/images/dog.png",
+    "status": "Пропавшие",
+    "location": "Екатеринбург",
+    "gender": "1",
+    "data": "12:15:2012"
+  }
+]
